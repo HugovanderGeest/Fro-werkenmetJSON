@@ -1,3 +1,6 @@
+// Hugo van der Geeste
+
+
 // HTML ID ophalen.
 const output = document.getElementById(`boeken`);
 
